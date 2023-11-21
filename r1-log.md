@@ -13,3 +13,7 @@ Created the database schema for the SaaS product. I will be using a relational d
 The initial schema is simply a guide, and will be updated as the product evolves.
 
 ### R1D2 - November 21st, 2023
+
+Created the initial server structure and the models and migrations for two of the tables in the database schema.
+
+### R1D3 - November 22nd, 2023
