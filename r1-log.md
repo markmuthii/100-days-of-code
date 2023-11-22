@@ -17,3 +17,7 @@ The initial schema is simply a guide, and will be updated as the product evolves
 Created the initial server structure and the models and migrations for two of the tables in the database schema.
 
 ### R1D3 - November 22nd, 2023
+
+Worked on the authentication API. Set up the initial client structure and installed Shadcn UI.
+
+### R1D4 - November 23rd, 2023
