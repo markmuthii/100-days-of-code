@@ -21,3 +21,7 @@ Created the initial server structure and the models and migrations for two of th
 Worked on the authentication API. Set up the initial client structure and installed Shadcn UI.
 
 ### R1D4 - November 23rd, 2023
+
+Started on the app interface. Frontend is not really my forte, and since I am not using a template for this project, the interface took longer than I thought it would. That's okay though, because this is a learning experience. I will continue with the interface tomorrow, and hopefully finish it up.
+
+### R1D5 - November 24th, 2023
